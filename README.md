@@ -1,9 +1,9 @@
 # Titan
-Voice Assitant programed in Python
+Voice Assitant programmed in Python
 
-Titan is a voice assitant programmed in Python. 
+Titan is a voice assistant programmed in Python. 
 It features many commands and possible ways to add to them. 
-For running on your PC, make sure you pip install pyaudio, speechrecognition, wikipedia, pyttsx3, webbrowser. 
+For running on your PC, make sure you pip install pyaudio, speechrecognition, Wikipedia, pyttsx3, webbrowser. 
 Currently, titan has these possible commands:
                       'wikipedia'
                       'password'
@@ -24,4 +24,4 @@ Currently, titan has these possible commands:
                       'weather'
                       'coin flip'
                       'dice roll'
-For using these commands, simply say the command. 
+To use these commands, simply speak the command. 
