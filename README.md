@@ -1,5 +1,5 @@
 # Titan
-Voice Assitant programmed in Python
+Voice Assistant programmed in Python
 
 Titan is a voice assistant programmed in Python. 
 It features many commands and possible ways to add to them. 
